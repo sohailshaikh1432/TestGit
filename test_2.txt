@@ -1,0 +1,9 @@
+step 1  :Create File in Local
+		- demo.txt
+step 2  :Check status using follow command 
+		- git ls
+step 3  :Check File Status 
+		- git status
+step 4  : First Commit this file into Local Git
+		- 
+step 5  :
